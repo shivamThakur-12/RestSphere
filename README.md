@@ -82,7 +82,7 @@ Ensure you have the following installed:
    node app.js
    ```
 5. **Visit the Application**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
+   Open [http://localhost:8080](http://localhost:8080) in your browser.
     ## 📂 Project Structure
 ```
 RestSphere/
@@ -112,6 +112,6 @@ RestSphere/
 ## 📩 Contact
 For any inquiries or feedback, reach out at:
 
-📧 Email: rijwankhan.rkn.com
+📧 Email: 7shivamjeethakur@gmail.com
 
-🔗 GitHub: [rijwanrk](https://github.com/rijwanrk)
+🔗 GitHub: [shivamThakur-12](https://github.com/shivamThakur-12)
